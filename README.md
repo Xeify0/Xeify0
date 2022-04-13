@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Xeify</h1>
-<h3 align="center">And I'm a passionate developer & system-administrator/cyber security consultant.</h3>
+<h3 align="center">And I'm a passionate java & python developer & system-administrator/cyber security consultant.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xeify0&label=Profile%20views&color=0e75b6&style=flat" alt="xeify0" /> </p>
 
